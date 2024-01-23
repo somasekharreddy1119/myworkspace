@@ -1,0 +1,4 @@
+log {
+
+    print("This is soma")
+}
